@@ -7,6 +7,6 @@
 ### A few insights about my background
 
 - :zap: Quickly build MVPs of web and mobile applications with React & React Native stack
-- :watch: Have strong skills in peronsal time management
+- :watch: Have strong skills in personal time management
 - :book: Love reading technical literature and Blinkist summaries
 - :100: Writing well-structured code using best practice
